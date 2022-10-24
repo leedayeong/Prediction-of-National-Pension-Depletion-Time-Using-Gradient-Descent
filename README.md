@@ -3,9 +3,6 @@
 <br>
 
 ## 🚀 목차
-- [제 11회 DB 금융경제 공모전](#제-11회-db-금융경제-공모전)
-    - [Prediction of National Pension Depletion Time Using Gradient Descent - 경사하강법을 활용한 국민연금 고갈 시기 예측](#prediction-of-national-pension-depletion-time-using-gradient-descent---경사하강법을-활용한-국민연금-고갈-시기-예측)
-- [🚀 목차](#-목차)
 - [📝 연구 요약](#-연구-요약)
 - [💡 전체 연구 과정](#-전체-연구-과정)
 - [💡 연구 요약](#-연구-요약-1)
